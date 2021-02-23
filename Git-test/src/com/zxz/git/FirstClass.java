@@ -12,7 +12,9 @@ public class FirstClass {
         System.out.println("hello,git Project!!!");
         System.out.println("hello,git Project!!!");
 
-
+    }
+    public void add(){
 
     }
+
 }
